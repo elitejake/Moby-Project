@@ -1,4 +1,4 @@
-# The Complete Moby(tm) Shakespeare: CONTENTS
+# The Complete Moby Shakespeare: CONTENTS
 In approximate chronological order of composition within each group.
 
 ## Histories
@@ -49,3 +49,4 @@ In approximate chronological order of composition within each group.
 - Coriolanus
 
 ## Glossary
+*See* [`Glossary.md`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Shakespeare/Glossary.md).
