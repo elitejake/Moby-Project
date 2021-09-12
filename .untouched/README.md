@@ -1,5 +1,5 @@
 # What is this directory about?
-This directory should contain the same Moby Project files as in the parent directory but the filenames are kept intact. Also, this directory has all the documentation that came with the original.
+This directory should contain the same Moby Project files as in the parent directory but the filenames are kept intact. Also, this directory has all the documentation that came with the original. These are original files, and not from Project Gutenberg.
 ## Download
 |  | GitHub mirror | Wayback Machine | Placeholder |
 |-----|:---:|:---:|:---:|
