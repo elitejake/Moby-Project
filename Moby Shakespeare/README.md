@@ -51,4 +51,4 @@ In approximate chronological order of composition within each group.
 - Coriolanus
 
 ## Glossary
-*See* [`Glossary.md`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Shakespeare/Glossary.md).
+*See* [`Glossary.md`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Shakespeare/GLOSSARY.md).
