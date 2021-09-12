@@ -1,7 +1,9 @@
-# The Complete Moby Shakespeare: CONTENTS
+**Moby Shakespeare** contains the complete unabridged works of Shakespeare.
+
+## Contents
 In approximate chronological order of composition within each group.
 
-## Histories
+### Histories
 - 2 Henry VI
 - 3 Henry VI
 - 1 Henry VI
@@ -17,7 +19,7 @@ In approximate chronological order of composition within each group.
 - Various Poems
 - Henry VIII
 
-## Comedies
+### Comedies
 - The Two Gentlemen of Verona
 - The Taming of the Shrew
 - The Comedy of Errors
@@ -36,7 +38,7 @@ In approximate chronological order of composition within each group.
 - Cymbeline
 - The Tempest
 
-## Tragedies
+### Tragedies
 - Titus Andronicus
 - Romeo and Juliet
 - Julius Caesar
