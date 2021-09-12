@@ -1,6 +1,6 @@
 
 # Moby Words II
-**Moby Words II** is the largest public domain wordlist<sup>[citation needed]</sup>. It was created by [Gard Ward](https://en.wikipedia.org/wiki/Grady_Ward). This project now is mirrored at [Project Gutenberg](http://www.gutenberg.org/files/3201/files/).
+**Moby Words II** is the largest public domain wordlist<sup>[citation needed]</sup>. It contains 16 files.
 
 ## 6,213 acronyms ([`acronyms.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Words%20II/ACRONYMS.TXT))
 List of common acronyms and abbreviations.
