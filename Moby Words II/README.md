@@ -1,7 +1,6 @@
 
 # Moby Words II
-**Moby Words II** is the largest public domain wordlist<sup>[citation needed]</sup>. It contains 16 files.
-
+**Moby Words II** is the largest public domain wordlist<sup>[citation needed]</sup>. It contains 16 files as follows:
 ## 6,213 acronyms ([`acronyms.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Words%20II/ACRONYMS.TXT))
 List of common acronyms and abbreviations.
 
