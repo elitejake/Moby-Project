@@ -7,7 +7,7 @@ The Ward word lists were some of the largest public domain word lists in the wor
 
 These lists may still be useful, but they are no longer the state-of-the-art in wordlists. In the time since the lists were created, it has become much easier for anyone with interests to make their own lists of unique words from the Project Gutenberg collection or other sources.
 
-# Issues
+## Issues
 According to Wikipedia, some of the lists are contaminated. For example,  [`japanese.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Language%20II/japanese.txt) has English words such as *abnormal* and words that do not exist, like *abcdefgh* and *m,./*. The words aren't sorted consistently among the lists. [`french.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Language%20II/french.txt) contains a straight alphabetical listing, while the [`german.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Language%20II/german.txt) contains the alphabetical listing of traditionally capitalized words and then the alphabetical listing of traditionally lower-cased words. However, [`italian.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Language%20II/italian.txt) does not contain any capitalized words. None of these lists use accented characters, so "e^tre" is how a user would look up the French word  *être* (*to be*).
 
 ## Statistics
