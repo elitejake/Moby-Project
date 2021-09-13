@@ -22,48 +22,48 @@ The *part-of-speech* field is optional and only used to disambiguate 770 of the 
 The rest of the characters are IPA symbols denoting the pronunciation. Each phoneme is represented by a sequence of one or more characters. Some of the sequences are delimited with a slash character "/", as shown in the following table, but note that the sequence for /ɔɪ/ is delimited by _two_ slash characters at either end. The IPA symbols used are:
 | Symbol | IPA    | Sounds like                                        |
 |--------|--------|----------------------------------------------------|
-| /&/    | æ      | "a" in "dab"                                       |
-| /-/    | ə      | "ir" glide in "tire" or the "dl" glide in "handle" |
-| /@/    | ʌ, ə   | "a" in "ado"                                       |
+| /&/    | æ      | *a* in *dab*                                       |
+| /-/    | ə      | *ir* glide in *tire* or the *dl* glide in *handle* |
+| /@/    | ʌ, ə   | *a* in *ado*                                       |
 | /[@]/r | ɜr, ər |                                                    |
-| /A/    | ɑ, ɑː  | "a" in "far"                                       |
-| /aI/   | aɪ     | "i" in "ice"                                       |
-| /AU/   | aʊ     | "ow" in "how"                                      |
-| b      | b      | "b" in "nab"                                       |
-| d      | d      | "d" in "pod"                                       |
-| /D/    | ð      | "th" in "the"                                      |
-| /dZ/   | dʒ     | "g" in "vegetably"                                 |
-| /E/    | ɛ      | "e" in "red"                                       |
-| /eI/   | eɪ     | "a" in "day"                                       |
-| f      | f      | "f" in "elf"                                       |
-| g      | ɡ      | "g" in "fig"                                       |
-| h      | h      | "h" in "had"                                       |
-| hw     | hw     | "w" in "white"                                     |
-| /i/    | iː     | "e" in "see"                                       |
-| /I/    | ɪ      | "i" in "hid"                                       |
-| /j/    | j      | "y" in "you"                                       |
+| /A/    | ɑ, ɑː  | *a* in *far*                                       |
+| /aI/   | aɪ     | *i* in *ice*                                       |
+| /AU/   | aʊ     | *ow* in *how*                                      |
+| b      | b      | *b* in *nab*                                       |
+| d      | d      | *d* in *pod*                                       |
+| /D/    | ð      | *th* in *the*                                      |
+| /dZ/   | dʒ     | *g* in *vegetably*                                 |
+| /E/    | ɛ      | *e* in *red*                                       |
+| /eI/   | eɪ     | *a* in *day*                                       |
+| f      | f      | *f* in *elf*                                       |
+| g      | ɡ      | *g* in *fig*                                       |
+| h      | h      | *h* in *had*                                       |
+| hw     | hw     | *w* in *white*                                     |
+| /i/    | iː     | *e* in *see*                                       |
+| /I/    | ɪ      | *i* in *hid*                                       |
+| /j/    | j      | *y* in *you*                                       |
 | /ju/   | juː    |                                                    |
-| k      | k      | "c" in "act"                                       |
-| l      | l      | "l" in "ail"                                       |
-| m      | m      | "m" in "aim"                                       |
-| n      | n      | "n" in "and"                                       |
-| /N/    | ŋ      | "ng" in "bang"                                     |
-| /O/    | ɔ, ɔː  | "o" in "dog"                                       |
-| //Oi// | ɔɪ     | "oi" in "oil"                                      |
-| /oU/   | oʊ     | "o" in "boat"                                      |
-| p      | p      | "p" in "imp"                                       |
-| r      | r      | "r" in "ire"                                       |
-| s      | s      | s" in "sip"                                        |
-| /S/    | ʃ      | sh" in "she"                                       |
-| t      | t      | "t" in "tap"                                       |
-| /T/    | θ      | "th" in "bath"                                     |
-| /tS/   | tʃ     | "ch" in "ouch"                                     |
-| /u/    | uː     | "oo" in "too"                                      |
-| /U/    | ʊ      | "oo" in "book"                                     |
-| v      | v      | "v" in "average"                                   |
-| w      | w      | "w" in "win"                                       |
-| z      | z      | "z" in "zoo"                                       |
-| /Z/    | ʒ      | "s" in "vision"                                    |
+| k      | k      | *c* in *act*                                       |
+| l      | l      | *l* in *ail*                                       |
+| m      | m      | *m* in *aim*                                       |
+| n      | n      | *n* in *and*                                       |
+| /N/    | ŋ      | *ng* in *bang*                                     |
+| /O/    | ɔ, ɔː  | *o* in *dog*                                       |
+| //Oi// | ɔɪ     | *oi* in *oil*                                      |
+| /oU/   | oʊ     | *o* in *boat*                                      |
+| p      | p      | *p* in *imp*                                       |
+| r      | r      | *r* in *ire*                                       |
+| s      | s      | s* in *sip*                                        |
+| /S/    | ʃ      | sh* in *she*                                       |
+| t      | t      | *t* in *tap*                                       |
+| /T/    | θ      | *th* in *bath*                                     |
+| /tS/   | tʃ     | *ch* in *ouch*                                     |
+| /u/    | uː     | *oo* in *too*                                      |
+| /U/    | ʊ      | *oo* in *book*                                     |
+| v      | v      | *v* in *average*                                   |
+| w      | w      | *w* in *win*                                       |
+| z      | z      | *z* in *zoo*                                       |
+| /Z/    | ʒ      | *s* in *vision*                                    |
 
 There are several other extra sequences representing phonemes found in other languages. Some of these might be errors in encoding because the documentation hasn't addressed all the extra phonemes.
 
