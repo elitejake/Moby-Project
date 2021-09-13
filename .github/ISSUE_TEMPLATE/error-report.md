@@ -11,20 +11,23 @@ assignees: ''
 
 **File(s) affected**
 1. Link to the file here.
-2. Remove this line if there isn't more than 1 file affected.
+<!-- Continue the ordered list if there are more files affected -->
+
 
 **Location of the error**
+<!--- Location of the error (subheadings, line, etc...) in the file(s) you linked above -->
 
-Location of the error (subheadings, line, etc...) in the file(s) you linked above.
 
 **Describe the error**
+<!-- Clearly and concisely describe what the error is below -->
 
-A clear and concise description of what the error is.
 
 **Expected content**
+<!-- Suggest how the error should be fixed below -->
 
-Suggest how the error should be fixed here.
-
+<!-- Thank you for filing a bug report! -->
+<!-- If you have additional context to explain, uncomment the bold text below and tell us about it in the following lines -->
+<!--
 **Additional context**
+-->
 
-Add any other context about the problem here.
