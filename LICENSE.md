@@ -16,4 +16,4 @@ Arcata, CA  95521-4884
 
 daedal@myrealbox.com >>
 ```
-All other files (files ending with `.md`) are licensed under [CC BY SA 4.0](http://creativecommons.org/licenses/by/4.0/).
+All other files (files ending with `.md`) are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
