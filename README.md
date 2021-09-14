@@ -34,6 +34,6 @@ If you liked this resource, consider donating to these people/organizations:
 - To all others who helped in the creation of this lexical resource.
 - To the contributors of this repository.
 ## Disclaimer
-The views expressed in the repository might not reflect the views of the contributors.
+The views expressed in the repository does not necessarily reflect the views of the contributors.
 
 There are also some rude words in this repository like `CH'ILL`, which is Shakespearean vulgar for *I will*.  You have been warned.
