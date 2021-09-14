@@ -37,6 +37,9 @@ If you liked this resource, consider donating to these people/organizations:
 - To Wikipedia (and it's volunteers), for providing information about the Moby Project.
 - To all others who helped in the creation of this lexical resource.
 - To the contributors of this repository.
+
+If I forgot to mention anyone here, please let us know by opening an issue or starting a discussion.
+
 ## Disclaimer
 The views expressed in the repository does not necessarily reflect the views of the contributors.
 
