@@ -1,4 +1,8 @@
+# Moby Project
 The **Moby Project** is a collection of public-domain lexical resources created by [Grady Ward](https://en.wikipedia.org/wiki/Grady_Ward).
+
+*Not to be confused with [Docker's open-source collaborative project for the container ecosystem to assemble container-based systems](https://github.com/moby/moby).*
+
 ## Contents
 | Moby... |  |
 |--|--|
