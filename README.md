@@ -29,8 +29,9 @@ See the [`README.md`](https://github.com/elitejake/Moby-Project/blob/main/.untou
 - All the files in the repository with `.md` extension is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 See [`LICENSE.md`](https://github.com/elitejake/Moby-Project/blob/main/LICENSE.md) for more info.
+
 ## Thanks
-If you liked this resource, consider donating to these people/organizations:
+If you found this resource useful, consider donating to these people/organizations:
 - To Grady Ward, for creating these awesome lists and placing them on public-domain.
 - To the Internet Archive, for preserving the internet, including preserving the  Moby Project's original files.
 - To Project Gutenberg, for hosting public-domain eBooks.
