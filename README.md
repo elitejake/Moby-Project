@@ -14,7 +14,7 @@ The **Moby Project** is a collection of public-domain lexical resources created 
 | [**Thesaurus II**](https://github.com/elitejake/Moby-Project/tree/main/Moby%20Thesaurus%20II) | Contains 30,260 root words, with thier 2 million+ synonyms |
 | [**Words II**](https://github.com/elitejake/Moby-Project/tree/main/Moby%20Words%20II) | Contains various useful wordlists |
 
-All the links above go to their corresponding directories, which has a `README.md` file which explains in-depth about what the resource in the directory is about.
+All the links in the table above goes to their corresponding directories, each of which has a `README.md` file which documents the content of the directory.
 
 ## FAQs
 ### Why does all of the Moby Project directories have `II` in the end?
