@@ -16,11 +16,11 @@ The **Moby Project** is a collection of public-domain lexical resources created 
 
 All the links in the table above goes to their corresponding directories, each of which has a `README.md` file which documents the content of the directory.
 
-## FAQs
-### Why does all of the Moby Project directories have `II` in the end?
+## FAQ
+#### Why does all of the Moby Project directories have `II` in the end?
 This is the second version of the Moby Project. I don't know where to find the first version and if it is released in the public-domain or not.
 
-### What is [`.untouched`](https://github.com/elitejake/Moby-Project/tree/main/.untouched) directory about?
+#### What is [`.untouched`](https://github.com/elitejake/Moby-Project/tree/main/.untouched) directory about?
 It contains the Moby Project files with their original filenames with the original documentation.
 See the [`README.md`](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md) file in the directory. It also contains the download links for Moby Project files.
 
@@ -30,16 +30,16 @@ See the [`README.md`](https://github.com/elitejake/Moby-Project/blob/main/.untou
 
 See [`LICENSE.md`](https://github.com/elitejake/Moby-Project/blob/main/LICENSE.md) for more info.
 
-## Thanks
+## Acknowledgements
 If you found this resource useful, consider donating to these people/organizations:
-- To Grady Ward, for creating these awesome lists and placing them on public-domain.
-- To the Internet Archive, for preserving the internet, including preserving the  Moby Project's original files.
-- To Project Gutenberg, for hosting public-domain eBooks.
-- To Wikipedia (and it's volunteers), for providing information about the Moby Project.
+- To **Grady Ward**, for creating these awesome lists and placing them on public-domain.
+- To **Internet Archive**, for preserving the internet, including preserving the  Moby Project's original files.
+- To **Project Gutenberg**, for hosting public-domain eBooks.
+- To **Wikipedia** (and it's volunteers), for providing information about the Moby Project.
 - To all others who helped in the creation of this lexical resource.
 - To the contributors of this repository.
 
-If I forgot to mention anyone here, please let us know by opening an issue or starting a discussion.
+If I forgot to mention anyone here, please let us know by opening an issue.
 
 ## Disclaimer
 The views expressed in the repository does not necessarily reflect the views of the contributors.
