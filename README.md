@@ -14,11 +14,11 @@ The **Moby Project** is a collection of public-domain lexical resources created 
 | [**Thesaurus II**](https://github.com/elitejake/Moby-Project/tree/main/Moby%20Thesaurus%20II) | Contains 30,260 root words, with thier 2 million+ synonyms |
 | [**Words II**](https://github.com/elitejake/Moby-Project/tree/main/Moby%20Words%20II) | Contains various useful wordlists |
 
-All the links in the table above goes to their corresponding directories, each of which has a `README.md` file which documents the content of the directory.
+The links in the table above go to their corresponding directories, each of which has a `README.md` file describing its content.
 
 ## FAQ
 #### Why does all of the Moby Project directories have `II` in the end?
-This is the second version of the Moby Project. I don't know where to find the first version and if it is released in the public-domain or not.
+This is the second version of the Moby Project. I have no idea where to find the first version or whether it is public domain or not.
 
 #### What is [`.untouched`](https://github.com/elitejake/Moby-Project/tree/main/.untouched) directory about?
 It contains the Moby Project files with their original filenames with the original documentation.
