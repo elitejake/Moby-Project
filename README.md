@@ -39,7 +39,7 @@ If you found this resource useful, consider donating to these people/organizatio
 - To all others who helped in the creation of this lexical resource.
 - To the contributors of this repository.
 
-If I forgot to mention anyone here, please let us know by opening an issue.
+Let me know if I had missed anyone.
 
 ## Disclaimer
 The views expressed in the repository does not necessarily reflect the views of the contributors.
