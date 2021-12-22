@@ -32,7 +32,7 @@ See [`LICENSE.md`](https://github.com/elitejake/Moby-Project/blob/main/LICENSE.m
 
 ## Acknowledgements
 If you found this resource useful, consider donating to these people/organizations:
-- To **Grady Ward**, for creating these awesome lists and placing them on public-domain.
+- To **Grady Ward**, for creating this awesome lexical resource and placing it on public-domain.
 - To **Internet Archive**, for preserving the internet, including preserving the  Moby Project's original files.
 - To **Project Gutenberg**, for hosting public-domain eBooks.
 - To **Wikipedia** (and it's volunteers), for providing information about the Moby Project.
