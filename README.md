@@ -18,6 +18,36 @@ The **Moby Project** is a collection of public-domain lexical resources created 
 
 The links in the table above go to their corresponding directories, each of which has a `README.md` file describing its content.
 
+## Download
+
+### Zip
+
+Use this [direct link](https://github.com/elitejake/Moby-Project/archive/refs/heads/main.zip) to download the repository.
+
+```console
+wget -c https://github.com/elitejake/Moby-Project/archive/refs/heads/main.zip -O "Moby Project.zip" \
+    && unzip "Moby Project.zip" \
+    && rm -f "Moby Project.zip"
+```
+
+### Git
+
+Use Git or SVN checkout with [this url](https://github.com/elitejake/Moby-Project.git).
+
+```console
+git clone https://github.com/elitejake/Moby-Project.git
+```
+
+### Kali Linux
+
+A subset of this project is included in [SecLists](https://github.com/danielmiessler/SecLists), which contains all kinds of lists a security tester needs.
+
+See the [tool page](https://www.kali.org/tools/seclists/) for more information.
+
+```console
+sudo apt install seclists
+```
+
 ## FAQ
 
 #### Why does all of the Moby Project directories have `II` in the end?
