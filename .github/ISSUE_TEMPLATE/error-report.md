@@ -12,7 +12,7 @@ assignees: ''
 - [ ] I'm not suggesting a change in the original Moby Project files.
 
 **File(s) affected**
-- Link to the file here.
+1. Link to the file here.
 <!-- Continue the ordered list if there are more files affected -->
 
 
