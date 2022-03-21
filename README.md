@@ -40,13 +40,17 @@ git clone https://github.com/elitejake/Moby-Project.git
 
 ### Kali Linux
 
-A subset of this project is included in [SecLists](https://github.com/danielmiessler/SecLists), which contains all kinds of lists a security tester needs.
+A subset of this project is included in [SecLists](https://github.com/danielmiessler/SecLists), which contains all kinds of lists a security tester needs. Cool, eh?
 
 See the [tool page](https://www.kali.org/tools/seclists/) for more information.
 
 ```console
 sudo apt install seclists
 ```
+
+### Download individual collections
+
+Go to [releases](https://github.com/elitejake/Moby-Project/releases/tag/untouched) to download original Moby Project collections individually. If you want mirrors, check out this [fancy table](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md#download).
 
 ## FAQ
 
@@ -56,7 +60,7 @@ This is the second version of the Moby Project. I have no idea where to find the
 
 #### What is [`.untouched`](https://github.com/elitejake/Moby-Project/tree/main/.untouched) directory about?
 
-It contains the Moby Project files with their original filenames with the original documentation.
+It contains the Moby Project files with their original filenames with **their original documentation**.
 See the [`README.md`](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md) file in the directory. It also contains the download links for Moby Project files.
 
 ## License
@@ -83,4 +87,4 @@ Let me know if I had missed anyone.
 
 The views expressed in the repository does not necessarily reflect the views of the contributors.
 
-There are also some rude words in this repository like `CH'ILL`, which is Shakespearean vulgar for *I will*.  You have been warned.
+There are also some rude words in this repository like `CH'ILL`, which is Shakespearean vulgar for *I will*.  **You have been warned.**
