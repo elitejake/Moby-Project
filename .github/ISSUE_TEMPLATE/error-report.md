@@ -7,10 +7,12 @@ assignees: ''
 
 ---
 
+<!-- Thank you for submitting a PR-->
+
 - [ ] I'm not suggesting a change in the original Moby Project files.
 
 **File(s) affected**
-1. Link to the file here.
+- Link to the file here.
 <!-- Continue the ordered list if there are more files affected -->
 
 
@@ -30,4 +32,3 @@ assignees: ''
 <!--
 **Additional context**
 -->
-
