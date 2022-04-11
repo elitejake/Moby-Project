@@ -13,4 +13,4 @@ jobs:
       - name: Update diagram
         uses: githubocto/repo-visualizer@main
         with:
-          excluded_paths: "ignore,.github,.untouched"
+          excluded_paths: ".github,.untouched,README.md,config.yml,LICENSE.md,CONTRIBUTING.md"
