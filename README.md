@@ -81,7 +81,7 @@ If you found this resource useful, consider donating to these people/organizatio
 - To all others who helped in the creation of this lexical resource.
 - To the contributors of this repository.
 
-Let me know if I had missed anyone.
+Let me know if I missed anyone.
 
 ## Disclaimer
 
