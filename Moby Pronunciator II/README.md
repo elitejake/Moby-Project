@@ -1,7 +1,7 @@
 The **Moby Pronunciator II** has lists containing words with their corresponding pronunciation.
 
 ## 177,267 entries in [`mpron.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Pronunciator%20II/mpron.txt)
-This is the main **Moby Pronunciator II** dictionary.  According to it's documentation in [`phoneset.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Pronunciator%20II/phoneset.txt), each entry consists of a word or phrase field followed by a field delimiter of space " " and the IPA equivalent field that is coded using the following ASCII symbols (case is significant). Spaces between words in the  word or phrase or pronunciation field is denoted with underscore. The lines are in the fomat: *word[/part-of-speech] pronunciation*.
+This is the main **Moby Pronunciator II** dictionary.  According to its documentation in [`phoneset.txt`](https://github.com/elitejake/Moby-Project/blob/main/Moby%20Pronunciator%20II/phoneset.txt), each entry consists of a word or phrase field followed by a field delimiter of space " " and the IPA equivalent field that is coded using the following ASCII symbols (case is significant). Spaces between words in the  word or phrase or pronunciation field is denoted with underscore. The lines are in the fomat: *word[/part-of-speech] pronunciation*.
 
 The *part-of-speech* field is optional and only used to disambiguate 770 of the words which have differing pronunciations depending on their part-of-speech. According to Wikipedia and it's documentation, the parts-of-speech have been assigned the following codes:
 | Part of Speech | Code |
