@@ -1,3 +1,4 @@
+
 # Moby Project
 
 The **Moby Project** is a collection of public-domain lexical resources created by [Grady Ward](https://en.wikipedia.org/wiki/Grady_Ward).
@@ -22,7 +23,7 @@ The links in the table above go to their corresponding directories, each of whic
 
 ### Zip
 
-Use this [direct link](https://github.com/elitejake/Moby-Project/archive/refs/heads/main.zip) to download the repository.
+Use the [direct link](https://github.com/elitejake/Moby-Project/archive/refs/heads/main.zip) to download the repository.
 
 ```console
 wget -c https://github.com/elitejake/Moby-Project/archive/refs/heads/main.zip -O "Moby Project.zip" \
@@ -32,7 +33,7 @@ wget -c https://github.com/elitejake/Moby-Project/archive/refs/heads/main.zip -O
 
 ### Git
 
-Use Git or SVN checkout with [this url](https://github.com/elitejake/Moby-Project.git).
+Use Git or SVN checkout on [this url](https://github.com/elitejake/Moby-Project.git).
 
 ```console
 git clone https://github.com/elitejake/Moby-Project.git
@@ -40,48 +41,48 @@ git clone https://github.com/elitejake/Moby-Project.git
 
 ### Kali Linux
 
-A subset of this project is included in [SecLists](https://github.com/danielmiessler/SecLists), which contains all kinds of lists a security tester needs. Cool, eh?
+A subset of this project is included in [SecLists](https://github.com/danielmiessler/SecLists), which also contains other lists which you might find helpful.
 
-See the [tool page](https://www.kali.org/tools/seclists/) for more information.
+See the Kali Linux [tool page](https://www.kali.org/tools/seclists/) for more information.
 
 ```console
-sudo apt install seclists
+apt install seclists
 ```
 
 ### Download individual collections
 
-Go to [releases](https://github.com/elitejake/Moby-Project/releases/tag/untouched) to download original Moby Project collections individually. If you want mirrors, check out this [fancy table](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md#download).
+Go to [Releases](https://github.com/elitejake/Moby-Project/releases/tag/untouched) to download the original Moby Project collections individually. If you want mirrors, check out this [fancy table](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md#download).
 
 ## FAQ
 
-#### Why does all of the Moby Project directories have `II` in the end?
+#### Why does all of the Moby Project directories have `II` at the end?
 
 This is the second version of the Moby Project. I have no idea where to find the first version or whether it is public domain or not.
 
-#### What is [`.untouched`](https://github.com/elitejake/Moby-Project/tree/main/.untouched) directory about?
+#### What is the [`.untouched`](https://github.com/elitejake/Moby-Project/tree/main/.untouched) directory?
 
-It contains the Moby Project files with their original filenames with **their original documentation**.
-See the [`README.md`](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md) file in the directory. It also contains the download links for Moby Project files.
+It contains the Moby Project files with their original filenames and **their original documentation**.
+See the [`README.md`](https://github.com/elitejake/Moby-Project/blob/main/.untouched/README.md) file in the directory for more information.
 
 ## License
 
-- Do whatever you want with the Moby Project files (files **not** ending with `.md`)
-- All the files in the repository with `.md` extension is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+- The original Moby Project files are released in the public domain (files **not** ending with `.md`).
+- Files with `.md` extension are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 See [`LICENSE.md`](https://github.com/elitejake/Moby-Project/blob/main/LICENSE.md) for more info.
 
 ## Acknowledgements
 
-If you found this resource useful, consider donating to these people/organizations:
+If you found this resource useful, consider supporting these people/organizations:
 
-- To **Grady Ward**, for creating this awesome lexical resource and placing it on public-domain.
-- To **Internet Archive**, for preserving the internet, including preserving the  Moby Project's original files.
-- To **Project Gutenberg**, for hosting public-domain eBooks.
-- To **Wikipedia** (and it's volunteers), for providing information about the Moby Project.
+- To **Grady Ward**, for creating this extensive lexical resource and placing it on public domain.
+- To **Internet Archive**, for preserving the internet, including the original Moby Project's website.
+- To **Project Gutenberg**, for hosting public domain eBooks, including the Moby Project.
+- To **Wikipedia**, for providing vital information regarding the Moby Project.
 - To all others who helped in the creation of this lexical resource.
 - To the contributors of this repository.
 
-Let me know if I missed anyone.
+[Let us know](https://github.com/elitejake/Moby-Project/issues/new) if we missed anyone.
 
 ## Disclaimer
 
