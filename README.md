@@ -55,7 +55,7 @@ Go to [Releases](https://github.com/elitejake/Moby-Project/releases/tag/untouche
 
 ## FAQ
 
-#### Why does all of the Moby Project directories have `II` at the end?
+#### Why do all of the Moby Project directories have `II` at the end?
 
 This is the second version of the Moby Project. I have no idea where to find the first version or whether it is public domain or not.
 
